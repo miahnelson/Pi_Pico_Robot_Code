@@ -1,4 +1,4 @@
-__version__ = '0.0.1'
+__version__ = '0.0.2'
 __author__ = 'Jeremiah Nelson'
 __license__ = 'MIT License. https://www.mit.edu/~amini/LICENSE.md'
 
