@@ -6,6 +6,7 @@ The majority of this work is referencing cpp libraies already available for the 
 
 
 **Hardware being used**
+
 Raspberry Pi Pico: https://www.raspberrypi.com/products/raspberry-pi-pico/specifications/
 
 HC-SR04 Ultrasonic Sensor: https://www.seeedstudio.com/blog/2019/11/04/hc-sr04-features-arduino-raspberrypi-guide/
