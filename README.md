@@ -19,5 +19,5 @@ SMARS Modular Robot: https://www.thingiverse.com/thing:2662828
 
 
 
-Additional components and compoentns models will be added over time. 
+Additional components and components/models will be added over time. 
 
