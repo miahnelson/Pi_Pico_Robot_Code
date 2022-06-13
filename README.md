@@ -11,7 +11,7 @@ Raspberry Pi Pico: https://www.raspberrypi.com/products/raspberry-pi-pico/specif
 
 HC-SR04 Ultrasonic Sensor: https://www.seeedstudio.com/blog/2019/11/04/hc-sr04-features-arduino-raspberrypi-guide/
 
-Mini L298N Motor Driver: https://www.robotpark.com/Mini-L298N-Motor-Driver#:~:text=Mini%20L298N%20Motor%20Driver%20info,to%20set%20the%20rotation%20spee
+Mini L298N Motor Driver: https://www.etechnophiles.com/l298n-motor-driver-pin-diagram/
 
 UPS Module for Raspberry Pi Pico: https://www.waveshare.com/pico-ups-b.htm
 
